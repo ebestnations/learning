@@ -1,0 +1,313 @@
+.topheader{ background-color: white);}
+
+.logo{float:left;
+padding: 0px 0px 10px 35px;}
+
+ul {text-align: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 30px 50px 10px 0px;
+    overflow: hidden;
+  }
+li {
+    display: inline;
+    border-right:1px solid black;
+    font-size: 25px;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    color: black;
+    padding: 25px;
+    text-decoration: none;
+  }
+#active{color: rgb(145, 95, 20);}
+
+
+.aboutus{position: absolute;
+    width: 1440px;
+    height: 304px;
+    left: 0px;
+    top: 136px;
+    background-image: url("https://i.ibb.co/vqyyV7Z/0d02e293fde102b60007404768dc8d2b.jpg");
+background-repeat: no-repeat;
+background-size: 1440px;
+;}
+
+p {position: absolute;
+    width: 228px;
+    height: 50px;
+    left: 606px;
+    top: 80px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    /* identical to box height */
+    letter-spacing: 0.08em;
+    color: #070606;}
+
+    .yellow{position: absolute;
+        width: 1440px;
+        height: 36px;
+        left: 0px;
+        top: 440px;
+        
+        background: #D8A235;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);}
+.polygone{position: absolute;
+    width: 68px;
+    height: 53px;
+    left: 700px;
+    top: 475px;
+
+    transform: rotate(360deg);}
+    .history{position: absolute;
+        width: 209px;
+        height: 38px;
+        left: 650px;
+        top: 569px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 38px;
+        /* identical to box height */
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+        }
+        
+
+
+        .text{position: absolute;
+            width: 671px;
+            height: 102px;
+            left: 384px;
+            top: 657px;
+            
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 25px;
+            text-align: center;
+            letter-spacing: 0.02em;
+            
+            color: rgba(48, 52, 51, 0.57);}
+            .firstimage{
+                position: absolute;
+                width: 720px;
+                height: 515.5px;
+                left: 0px;
+                top: 860px;
+                
+                background: url("https://i.ibb.co/0CTTncW/image.png");background-size: 720px;}
+                .secondimage{position: absolute;
+                    width: 720px;
+                    height: 515.5px;
+                    left: 720px;
+                    top: 860px;
+                    
+                    background: #FCFCFC;}
+                    .rdimage{position: absolute;
+                        width: 720px;
+                        height: 515.5px;
+                        left: 0px;
+                        top: 1375.5px;
+                        
+                        background: #FCFCFC;}
+                        .thimage{
+                            position: absolute;
+                            width: 729px;
+                            height: 515.5px;
+                            left: 720px;
+                            top: 1375.5px;
+                            background: url("https://i.ibb.co/5T6zn0s/image-2.png");background-size: 720px;}
+
+                            .mission{position: absolute;
+                                width: 208px;
+                                height: 38px;
+                                left: 60px;
+                                top: 120px;
+                                
+                                font-family: 'Roboto';
+                                font-style: normal;
+                                font-weight: 500;
+                                font-size: 32px;
+                                line-height: 38px;
+                                /* identical to box height */
+                                letter-spacing: 0.02em;
+                                text-transform: uppercase;
+
+                                }
+                            
+                                .text2{
+                                    position: absolute;
+                                    width: 473px;
+                                    height: 152px;
+                                    left: 60px;
+                                    top: 170px;
+                                    
+                                    font-family: 'Roboto';
+                                    font-style: normal;
+                                    font-weight: 400;
+                                    font-size: 18px;
+                                    line-height: 25px;
+                                    letter-spacing: 0.02em;
+                                    
+                                    color: rgba(48, 52, 51, 0.57);
+                                    }
+ .more{
+                                        position: absolute;
+                                        width: 102px;
+                                        height: 21px;
+                                        left: 60px;
+                                        top: 320px;
+                                    
+                                        font-family: 'Roboto';
+                                        font-style: normal;
+                                        font-weight: 900;
+                                        font-size: 18px;
+                                        line-height: 25px;
+                                        letter-spacing: 0.02em;
+                                        
+                                        color: #D8A235;
+                                    }
+    .ourteam{position: absolute;
+        width: 162px;
+        height: 38px;
+        left: 639px;
+        top: 1992px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 38px;
+        /* identical to box height */
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+        
+        }
+    .firstbox{position: absolute;
+        width: 260.75px;
+        height: 297px;
+        left: 144px;
+        top: 2080px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 3px;}
+
+    .secoundbox{position: absolute;
+        width: 260.75px;
+        height: 297px;
+        left: 440.75px;
+        top: 2080px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 3px;}
+    .thirdbox{position: absolute;
+        width: 260.75px;
+        height: 297px;
+        left: 737.5px;
+        top: 2080px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 3px;}
+    .forthbox{position: absolute;
+        width: 260.75px;
+        height: 297px;
+        left: 1035px;
+        top: 2080px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 3px;}
+
+        .pica{position: absolute;
+            width: 140px;
+            height: 140px;
+            left: 60px;
+            top: 24px;
+            background: url("https://i.ibb.co/DVWD4nb/markessien.png");
+            border-radius: 200px;}
+.textbold{position: absolute;
+    width: 147px;
+    height: 22px;
+    left: 56px;
+    top: 187px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    
+    color: #303433;}
+.lighttext{position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 61px;
+    top: 220px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.02em;
+    
+    color: rgba(48, 52, 51, 0.7);
+    }
+.footer{
+    position: absolute;
+    width: 1440px;
+    height: 228px;
+    left: 0px;
+    top: 2525px;
+    
+    background: #CCCCCC;
+    box-shadow: inset 0px 15px 12px rgba(0, 0, 0, 0.25);}
+    .lasttext{position: absolute;
+        width: 793px;
+        height: 22px;
+        left: 77px;
+        top: 78px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        
+        color: rgba(48, 52, 51, 0.78);}
+.lasttexts{position: absolute;
+    width: 211px;
+    height: 22px;
+    left: 97px;
+    top: 134px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    
+    color: rgba(48, 52, 51, 0.41);}
